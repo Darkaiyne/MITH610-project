@@ -13,16 +13,33 @@
 
   <body>
     <h1>My project</h1>
-    <div id="description">My 500 words.</div>
+    <div id="description">When considering the textual encoding for these files, one of the main things I wanted to showcase was the physicality of the documents on the page.
+    I think that when it comes to the digital, people have become used to looking at text in particular ways, from the formation of physical letters on a screen, to the assurance
+    of clean, unblemished understanding, and these documents aren't like that at all. The fact that there was a number of physical distortions, from inkblots to paragraph division
+    and letter splitting all served to really highlight the articles as a form of media that demands effort. Newspapers are a tangible media, with a physicality that underscores
+    the validity of the words printed on them, and similiarly when I was looking at the text itself, both of the subjects and the viewpoints they took, struck me as particularly
+    interesting. The first, a kind of pre-historic "All Lives Matter" argument, was curious, in that the author clearly identifies the issues with racial dividing and profiling...
+    while seeking to do just that through her passionate retort of racial intolerance on the campus. Much like the arguments of Black Lives Matter activists today, the author
+    refuses to acknowledge the individual struggles of blackness itself, witnessing the transgressions of White America, but giving it a pass, as the atonement for past sins
+    comes at a lesser price than accountability. In contrast, the article on black difficulties in dentistry, see black issues in America and create a parallel vision of opportunity
+    almost separating the reality from the understanding of why so few black doctors exist. What stands out to me in this piece and what I wanted to bring a particular focus on through
+    my encoding, was the use of numbers as a particular focus point in an attempt to make people understanding the severity of the issue. Perhaps, the black community knew very well
+    what was happening, but the average white person of the time didn't understand or believe the idea that so few black dentists could practice. I also made a conscious decision to
+    uppercase every instance of "Black" in the piece as a show of respect to the people that were being talked about. I feel that there is a concrete difference between the idea of the
+    darkest color, and the labeling of a racial group, and in this piece, I wanted to make sure to highlight the difference as a sort inferiority complex played out. I also made note
+    of the fact that only men were mentioned in the piece as the representatives of future doctors, while women remained outside, and I see that this too, is an idea of the time.
+    In reality, The articles paint a startling vision of Maryland in the 60's. It was a time where inequality was made visible, but total reconcilliation seemed then as it does now, overwhelming as instead, a kind of
+    incremental understanding worked its way into the consciousness of the people in the area. Textual encoding helps to understand the physicality of the media of the time, and through
+    it, one side of understanding of what remains to this day, a difficult issue.</div>
     <div id="article1"></div>
     <div id="article2"></div>
     <script>
       var c1 = new CETEI()
-      c1.getHTML5("data/example.xml", function(data) {
+      c1.getHTML5("data/studentnewspaper.xml", function(data) {
        document.getElementById("article1").appendChild(data)
       })
       var c2 = new CETEI()
-      c2.getHTML5("data/example.xml", function(data) {
+      c2.getHTML5("data/BlackMedicine2.xml", function(data) {
        document.getElementById("article2").appendChild(data)
       })
     </script>
