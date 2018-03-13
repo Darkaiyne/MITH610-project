@@ -6,3 +6,11 @@
 tei-teiHeader {
   display: none;
 }
+
+tei-seg[type='important'] {
+  color: blue;
+}
+
+tei-unclear {
+font-weight: bold;
+}
