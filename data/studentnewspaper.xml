@@ -38,21 +38,20 @@
 
          <div>
 
-           <p>I am writing this letter Tag: <unclear reason="ink blot"> because </unclear> I am <lb n="1" />
+           <p>I am writing this letter Tag: <seg type="error"> <unclear reason="ink blot"> because </unclear> </seg> I am <lb n="1" />
             concerned--deeply concerned. I am not an <emph> “angry young woman.” </emph> I am mostly a sad one. Sad at the divi­sions
-       I perceive among my fellow -to?eri­ca ns, <sic>error</sic> but also angry at the pessimists who are attempting to brainwash us <unclear>into </unclear> <cb n= "1" />
-       mark]
-           <cb break="no" />Believing <sic>error</sic> that the status quo can only worsen. I am speaking of the ques­tion of American citizenship; of the <unclear>
-       classification </unclear> of people into first and second class Americans according to whether they are WASP’s or “other.” </p>
-           <p>I am appalled that in the case of civil rights, instead of administering equality (which means equal rights distributed equally to all) we give more equality
-       to some than to others, or at least we <unclear> c’jSrently </unclear> <sic>error</sic> are preoccupied with patting <unclear> frselves </unclear> <sic>error</sic>
-       on the back as we complacently ie <sic>error</sic> out justice and equality to one segment of society while ignoring the rest. </p>
-           <p>Some angels of mercy do not <unclear> realize </unclear> <sic>error</sic> while they are “healing” the fester­ing toe of a gangrenous leg, the entire leg
+       <seg type="important">I perceive </seg> among my fellow <seg type="error"> <supplied>Americans</supplied> </seg> but also angry at the pessimists who are attempting to brainwash us <seg type="error"> <unclear>into </unclear> </seg>
+           <cb break="no" />Believing <sic>error</sic> that the status quo can only worsen. I am speaking of the ques­tion of American citizenship; of the <seg type="error"> <unclear>
+       classification </unclear> </seg> of people into first and second class Americans according to whether they are WASP’s or “other.” </p>
+           <p>I am appalled that in the case of civil rights, instead of administering equality (which means equal rights distributed equally to all) we give <seg type="important"> more equality
+       to some than to others </seg>, or at least we <seg type="error"> <supplied> currently </supplied> </seg> are preoccupied with patting <seg type="error"> <supplied> ourselves </supplied> </seg>
+       on the back as we complacently <seg type="error"> <supplied> dole </supplied> </seg> out justice and equality to one segment of society while ignoring the rest. </p>
+           <p>Some angels of mercy do not <seg type="error"> <unclear> realize </unclear> </seg> while they are “healing” the fester­ing toe of a gangrenous leg, the entire leg
        will soon rot off, along with the toe they are so busily attending to. </p>
-           <p>Why do some Americans attack urgent problems piecemeal? What I mean is why define civil rights as exclusively Negro <unclear> i%hts? </unclear> <sic>error</sic> Why are they doing injustice to all of America’s minorities by ex­ploiting
-       Negroes as a placebo for all of America’s minority ills? </p>
-           <p>Are they too blind to realize that persecution of the minorities has <unclear> not </unclear> <sic>error</sic> ceased? Do they think that anti-Semitic discrimination in country clubs is a figment of the imagination? Is prejudice against the American Indian
-       just a bad dream? Surely, discrimina­tion against Mexicans in California is <unclear> just </unclear> <sic>error</sic>  an ugly joke someone conjured up. </p>
+           <p>Why do some Americans attack urgent problems piecemeal? What I mean is why define civil rights as exclusively Negro <seg type="error"> <supplied> rights? </supplied> </seg> Why are they doing injustice to all of America’s minorities by <seg type="important"> ex­ploiting
+       Negroes </seg> as a placebo for all of America’s minority ills? </p>
+           <p>Are they too blind to realize that persecution of the minorities has <seg type="error"> <unclear> not </unclear> </seg> ceased? Do they think that anti-Semitic discrimination in country clubs is a figment of the imagination? Is prejudice against the American Indian
+       just a bad dream? Surely, discrimina­tion against Mexicans in California is <seg type="error"> <unclear> just </unclear> </seg> an ugly joke someone conjured up. </p>
            <p>Can't these Americans realize that <seg type="important">equality is equality</seg> -- it is neither tyran­ny of the majority
        nor worship of the </p> <cb break="no"/>
       <p> minority, and still less, worship of one minority over another. We are all of us Americans, whether naturalized or born Americans, hence, we are
@@ -65,11 +64,11 @@
        to the lions in the coliseum. How useless and how frighteningly analogous it is to the racial situation today. Refusing to forgive and being chained to the past
        strangles progress. </p>
            <p>I’m very glad that educational institu­tions are establishing black curricula, but Negroes should not view black his­tory as a thing which <seg type="important">makes them different from whites</seg>.
-                                                                                                   It should be viewed as illus­trating how the black American helped shape America, just as he is now so
-       instrumental in shaping America into her true potential of becoming a true melting pot of love and equality. </p>
+           It should be viewed as illus­trating how the black American helped shape America, just as he is now so
+       instrumental in shaping America into her true potential of becoming a <seg type="important"> true melting pot of love and equality. </seg> </p>
            <p>If only all Americans could join hands, this is not an impossible dream, as opposed to the cryptic fore­bodings of the harbingers of pessimism. </p>
            <p>As for Sterling Tucker’s remark that Negroes should be given more and better
-           <cb break="no"/> rights, that temporary prejudice in favor of the Negro is justified, <add>but</add> I again sadly shake my head at this. One evil does not justify another. This
+           <cb break="no"/> rights, that temporary prejudice in favor of the Negro is justified, <seg> type="error" <supplied>but</supplied> </seg> I again sadly shake my head at this. One evil does not justify another. This
        country has no room for extremists. No room for prejudice of any kind. This country needs equality. </p>
            <p>We need to follow the beautiful golden mean of Aristotle,
        for what tragedies and bloodbaths extremism has led to. How many bitter, blood-soaked mem­ories it has left in its wake? How many shattered lives? Remember Auschwitz.

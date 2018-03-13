@@ -11,6 +11,15 @@ tei-seg[type='important'] {
   color: blue;
 }
 
-tei-unclear {
+tei-seg[type='error'] {
 font-weight: bold;
+color: red;
+}
+
+tei-seg[type='number'] {
+color: yellow;
+}
+
+tei-seg[type='headline'] {
+font-family: cursive;
 }
